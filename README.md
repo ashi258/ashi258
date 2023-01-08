@@ -20,7 +20,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 
 - 💬 **Ask me about anything like Javascript, MERN, DSA, Cpp** (would definitely try helping you out)    
 
-- 👨‍💻 All of my **projects** are available at [My Portfolio](https://alakhdeepsingh.github.io/Portfolio/) 
+- 👨‍💻 All of my **projects** are available at [My GitHub](https://github.com/ashi258) 
  
 - 🤝 I’m looking to collaborate on **Projects and Hackathons**
 
