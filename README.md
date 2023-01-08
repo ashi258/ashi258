@@ -7,14 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
-- I am a Senior doing Information Technology Engineering from GNDEC Ludhiana 🏛️. I am passionate about Frontend development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
+- I am a Senior doing Electronics & Communication Engineering from GNDEC Ludhiana 🏛️. I am passionate about Frontend development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
 - 🔷 Currently, I am Actively Looking Full Time position roles in Tech beginning in July 2023.
 
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1u0aWMyN90tWQxr9ufeT5dhHYbltXwI15/view)
+- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1V-A2fZKPZuNLob1wUuuRjomVpIbTBbf_/view)
 
-- 📫 **How to reach me** [alakhdeepsingh773@gmail.com](alakhdeepsingh773@gmail.com)
+- 📫 **How to reach me** [rajashish6287@gmail.com](rajashish6287@gmail.com)
 
 - 🌱 I’m currently learning & practicing **Data Structure & Algorithms**
 
@@ -28,7 +28,7 @@ My goal is to solve real life problems using technology and create an impact ✨
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
- <a href="https://linkedin.com/in/alakhdeepsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alakhdeepsingh" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/ashish-raj-528437220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alakhdeepsingh" height="30" width="40" /></a>
  <a href="https://www.hackerrank.com/alakhdeep_7321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alakhdeep_7321" height="30" width="40" /></a>
  <a href="https://www.leetcode.com/coderking773/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coderking773/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/alakhdeep/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alakhdeep/practice" height="30" width="40" /> 
@@ -53,11 +53,6 @@ My goal is to solve real life problems using technology and create an impact ✨
     [![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
     [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)](https://material-ui.com/)
     [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-    
-- Backend : <br />
-    [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-    [![ExpressJS](https://img.shields.io/badge/Express.js-43853D?style=flat&logo=express.js&logoColor=white)](https://expressjs.org)
- 
   
 - Databases :  <br />
     [![Firebase](https://img.shields.io/badge/-Firebase-2C2D72?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com/)
