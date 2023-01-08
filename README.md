@@ -1,4 +1,4 @@
-<h2 align="center"> Hi 👋, I'm <a href="https://alakhdeepsingh.github.io/Portfolio/" target="blank">Alakhdeep Singh </a> a final year Information Technology Student</h2>
+<h2 align="center"> Hi 👋, I'm Ashish Raj </a> a final year Electronics & Communication Engineering Student</h2>
 <h3 align="center">A passionate Software Developer , Full Stack Web Developer , Technical Writer & Mentor from India</h3>
 
 #### 
