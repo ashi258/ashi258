@@ -7,12 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakhdeepsingh&label=Profile%20views&color=0e75b6&style=flat" alt="alakhdeepsingh" /> </p>          
  
-- I am a Senior doing Electronics & Communication Engineering from GNDEC Ludhiana 🏛️. I am passionate about Frontend development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
+- I am a Senior doing Electronics & Communication Engineering from GNDEC Ludhiana 🏛️. I am passionate about Full Stack development 🚀 and Open Source Contribution 💻. My areas of interest includes Web Design and Development, Database Management and Competitive Coding. I am a curious person who wants to explore every tech stack 💡 .                                           
 My goal is to solve real life problems using technology and create an impact ✨.
 
-- 🔷 Currently, I am Actively Looking Full Time position roles in Tech beginning in July 2023.
+- 🔷 Currently, I am Actively Looking Full Time position roles in Tech beginning in January 2024.
 
-- 📓 You can find my **Resume** [here](https://drive.google.com/file/d/1V-A2fZKPZuNLob1wUuuRjomVpIbTBbf_/view)
+- 📓 You can find my **Resume** [here]([https://drive.google.com/file/d/1V-A2fZKPZuNLob1wUuuRjomVpIbTBbf_/view](https://drive.google.com/file/d/15I7lrlVpPCAbQeu4bD4jdvvIZmXGctll/view?usp=drivesdk
+👏
+👍
+👎
+😊
+))
 
 - 📫 **How to reach me** [rajashish6287@gmail.com](rajashish6287@gmail.com)
 
